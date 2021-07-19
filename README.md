@@ -1,7 +1,7 @@
 ## Hi there, my name is sk00t3r. 👋 Welcome to my ~~sad~~ WiP GitHub profile.
 <p align="Left">
 ✅Make coffee 
-❌Learn to code ❌
+<br>❌Learn to code
 <br>❌Finish GitHub profile
 </p>
 
