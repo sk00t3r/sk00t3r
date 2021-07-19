@@ -26,6 +26,14 @@
  <img src="https://img.shields.io/badge/-vmware-607078?style=flat-square&logo=vmware&labelColor=white" />
  
  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure" />
+ 
+ <img src="https://img.shields.io/badge/-bitcoin-F7931A?style=flat-square&logo=bitcoin&labelColor=white" />
+ 
+ <img src="https://img.shields.io/badge/-csharp-239120?style=flat-square&logo=csharp" />
+ 
+ <img src="https://img.shields.io/badge/-debian-A81D33?style=flat-square&logo=debian" />
+ 
+ 
 </p>
  
  <h2 align="left"> Popular languages on my GitHub </h2>
