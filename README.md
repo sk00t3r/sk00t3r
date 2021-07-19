@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, my name is sk00t3r. 👋 Welcome to my <del>sad</del> WiP GitHub profile. <img src="https://visitor-badge.laobi.icu/badge?page_id=sk00t3r" alt="visitor badge"/>
 </h2>
 
-🔭 <font size="1"> I’m currently working as a Systems Engineer.</font>
+🔭 <font size="20"> I’m currently working as a Systems Engineer.</font>
 🌱 I’m currently learning Machine Learning, Automation, 
 💬 Ask me about Infrastructure or just say hi.
  
