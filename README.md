@@ -22,7 +22,7 @@
  </p>
  <h2 align="left"> My evolving Tech Stack </h2>
  <a target="_blank" href="https://www.python.org">
- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+ <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  </a>
  <a href="https://aws.amazon.com">
  <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" />
