@@ -1,7 +1,7 @@
 ## Hi there, my name is sk00t3r. 👋 Welcome to my ~~sad~~ WiP GitHub profile.
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img class="one" align="right" src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true" />
-  <img class="two" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk00t3r&layout=compact" />  
+  <img display="block" class="one" align="right" src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true" />
+  <img display="block" class="two" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk00t3r&layout=compact" />  
 </a>
 
 <!--
