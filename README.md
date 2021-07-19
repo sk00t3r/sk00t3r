@@ -2,7 +2,7 @@
 
 - [x] Make coffee 
 - [ ] Learn to code ❌
-❌Finish GitHub profile
+<br>❌Finish GitHub profile
 
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
