@@ -15,6 +15,7 @@
 <br>❌Finish GitHub profile
 </p>
 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&amp;theme=radical" />
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true" />
