@@ -14,16 +14,14 @@
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical" />
-<p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true" />
   </a>
       <br>
       <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk00t3r&layout=compact" />  
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk00t3r&layout=compact" />  
   </a>
-</p>
 
 <!--
 **sk00t3r/sk00t3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
