@@ -17,7 +17,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk00t3r&theme=radical&show_icons=true&hide_border=true$bg_color=#ffffff" />
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical&hide_border=true$bg_color=#ffffff" />
   </a>
       <br>
       <br>
