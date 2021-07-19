@@ -21,7 +21,7 @@
 </a>
  </p>
  <h2 align="left"> My evolving Tech Stack </h2>
- <a href="https://www.python.org">
+ <a href="https://www.python.org" target="_blank">
  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  </a>
  <a href="https://aws.amazon.com">
