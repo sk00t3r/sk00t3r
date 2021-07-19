@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is sk00t3r. 👋 Welcome to my GitHub profile.
 
 <!--
 **sk00t3r/sk00t3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
