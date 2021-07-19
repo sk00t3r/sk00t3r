@@ -8,11 +8,9 @@
 
 
 <p align="left">
-  <span style="padding-right:200px">
-✔️Make coffee
+  ✔️<span style="padding-right:200px">Make coffee</span>
 <br>❌Learn to HTML
 <br>❌Finish GitHub profile
-  </span>
 </p>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical" />
