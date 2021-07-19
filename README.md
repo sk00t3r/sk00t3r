@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <span style="padding-left:20px">
+  <span style="padding-right:200px">
 ✔️Make coffee
 <br>❌Learn to HTML
 <br>❌Finish GitHub profile
