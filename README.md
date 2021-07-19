@@ -22,16 +22,16 @@
  </p>
  <h2 align="left"> My evolving Tech Stack </h2>
  <a href="https://www.python.org">
- <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  </a>
  <a href="https://aws.amazon.com">
- <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?logo=amazonaws&logoColor=232F3E" />
+ <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" />
  </a>
  <a href="https://www.vmware.com/">
- <img src="https://img.shields.io/badge/-vmware-607078?logo=vmware&labelColor=white" />
+ <img src="https://img.shields.io/badge/-vmware-607078?style=flat-square&logo=vmware&labelColor=white" />
  </a>
  <a href="https://azure.microsoft.com">
- <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure" />
+ <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure" />
  </a>
  <h2 align="left"> Popular languages on my GitHub </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
