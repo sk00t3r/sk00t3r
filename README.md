@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there, my name is sk00t3r. 👋 Welcome to my ~~sad~~ WiP GitHub profile. </h1> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sk00t3r)
+<h2 align="center"> Hi there, my name is sk00t3r. 👋 Welcome to my <s>sad</s> WiP GitHub profile. </h2> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sk00t3r)
 
 - 🔭 I’m currently working as a Systems Engineer.
 - 🌱 I’m currently learning Machine Learning, Automation, 
