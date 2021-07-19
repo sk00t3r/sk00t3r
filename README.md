@@ -1,8 +1,9 @@
 ## Hi there, my name is sk00t3r. 👋 Welcome to my ~~sad~~ WiP GitHub profile.
-
-- [x] Make coffee 
-- [ ] Learn to code ❌
+<p align="Left">
+✅Make coffee 
+❌Learn to code ❌
 <br>❌Finish GitHub profile
+</p>
 
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
