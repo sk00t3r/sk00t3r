@@ -8,9 +8,9 @@
 
 
 <p align="right">
-✔️Make coffee&nbsp;&nbsp;&nbsp; 
+✔️Make coffee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br>❌Learn to HTML&nbsp;
-<br>❌Finish GitHub profile&nbsp;
+<br>❌Finish GitHub profile
 </p>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical" />
