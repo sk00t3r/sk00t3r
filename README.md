@@ -13,26 +13,21 @@
 </p>
 -->
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
  <img width="49.75%" align="center" src="https://github-readme-stats.vercel.app/api?username=sk00t3r&repo=github-readme-stats&theme=radical&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
  <img width="49.75%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk00t3r&theme=radical&hide_border=true" />
-</a>
- </p>
+</p>
  <h2 align="left"> My evolving Tech Stack </h2>
- <a target="_blank" href="https://www.python.org">
- <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
- </a>
- <a href="https://aws.amazon.com">
+<p>
+ <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+ 
  <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" />
- </a>
- <a href="https://www.vmware.com/">
+ 
  <img src="https://img.shields.io/badge/-vmware-607078?style=flat-square&logo=vmware&labelColor=white" />
- </a>
- <a href="https://azure.microsoft.com">
+ 
  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure" />
- </a>
+</p>
+ 
  <h2 align="left"> Popular languages on my GitHub </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk00t3r&layout=compact" />  
