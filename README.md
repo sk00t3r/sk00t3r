@@ -23,6 +23,8 @@
  
  <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" />
  
+ <img src="https://img.shields.io/badge/-notepad%20++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=white" />
+ 
  <img src="https://img.shields.io/badge/-vmware-607078?style=flat-square&logo=vmware&labelColor=white" />
  
  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure" />
