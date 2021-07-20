@@ -23,18 +23,25 @@
  
  <img src="https://img.shields.io/badge/-amazon%20aws-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" />
  
+ <img src="https://img.shields.io/badge/-powershell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+ 
  <img src="https://img.shields.io/badge/-notepad%20++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=white" />
  
  <img src="https://img.shields.io/badge/-vmware-607078?style=flat-square&logo=vmware&labelColor=white" />
+ 
+ <img src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
  
  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure" />
  
  <img src="https://img.shields.io/badge/-bitcoin-F7931A?style=flat-square&logo=bitcoin&labelColor=white" />
  
+ <img src="https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+ 
  <img src="https://img.shields.io/badge/-csharp-239120?style=flat-square&logo=csharp" />
  
  <img src="https://img.shields.io/badge/-debian-A81D33?style=flat-square&logo=debian" />
  
+ <img src="https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=flat-square&logo=visualstudiocode" />
  
 </p>
  
